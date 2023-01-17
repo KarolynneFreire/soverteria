@@ -8,14 +8,18 @@
     width: 300px;
 }
 
-.pessoa__imagem--roberta {
-    background-image: url('../../img/pessoas/roberta.jpg');
+.pessoa__imagem--karol {
+    background-image: url('../../img/pessoas/karol.jpg');
 }
 
-.pessoa__imagem--marcela {
-    background-image: url('../../img/pessoas/marcela.jpg');
+.pessoa__imagem--layza {
+    background-image: url('../../img/pessoas/layza.jpg');
 }
 
-.pessoa__imagem--andreia {
-    background-image: url('../../img/pessoas/andreia.jpg');
+.pessoa__imagem--henthony {
+    background-image: url('../../img/pessoas/henthony.jpg');
+}
+
+.pessoa__imagem--jose {
+    background-image: url('../../img/pessoas/jose.jpg');
 }
